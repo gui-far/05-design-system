@@ -1,0 +1,2 @@
+import{A as t}from"./index.fa0137dc.js";import"./index.2ea13ff4.js";import"./iframe.865b8e77.js";import"./index.44b41a97.js";import"./jsx-runtime.0c11cd8f.js";const p={title:"Data Display/Avatar",component:t,args:{src:"https://github.com/gui-far.png",alt:"Guilherme Faria"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.debc035e.js.map
